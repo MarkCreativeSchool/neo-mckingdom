@@ -3,6 +3,7 @@ target/
 .DS_Store
 spigot/
 !spigot/.gitkeep
+neo.imi
 
 *.class
 *.log
