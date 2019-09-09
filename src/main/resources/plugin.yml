@@ -1,0 +1,3 @@
+name: Neo
+version: ${project.version}
+main: me.mckd.neo.Neo
