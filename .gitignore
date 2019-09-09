@@ -12,5 +12,6 @@ spigot/
 *.zip
 *.tar.gz
 *.rar
+*.imi
 
 hs_err_pid*
